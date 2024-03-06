@@ -7,10 +7,7 @@ API_OPERATIONS.PY
 APIFOOTBALL_DAG.PY
 	Kod DAG Apache Airflow wraz ze zdefiniowanymi taskami. FInalne dane są przetwarzane bazując na połączeniu zadeklarowanym w UI Airflow.
 	
-
------------------------------------------------------------------------------
 -------------------------------- ENG ----------------------------------------
------------------------------------------------------------------------------
 
 API_OPERATIONS.PY
 	Code that sends queries to the API and processes the received data, built on the basis of a breakdown of functions that provide specific information.
